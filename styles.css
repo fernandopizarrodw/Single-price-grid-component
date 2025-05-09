@@ -104,7 +104,7 @@ button {
 
 }
 
-button a {
+button{
     text-decoration: none;
     color: var(--Light-Gray);
     font-size: 1rem;
@@ -154,7 +154,7 @@ button a {
         width: 100%;
         max-width: 650px;
         padding: 10px;
-          margin: 100px auto;
+          margin: 150px auto 50px auto;
 
 
     }
